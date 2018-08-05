@@ -1,6 +1,6 @@
 'use strict';
 var precacheConfig = [
-    ['index.html', 'e6269e245c09da71a0d8fed5e28ce076'],
+    ['/pwa-demo/index.html', 'e6269e245c09da71a0d8fed5e28ce076'],
     [
       '/pwa-demo/static/css/app.1d063bc0cd301699760e884e1e4c3379.css',
       '96abd660b227baae7d6d1da188f73912'
