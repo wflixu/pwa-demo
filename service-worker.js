@@ -1,20 +1,20 @@
 'use strict';
 var precacheConfig = [
-    ['pwa-demo/index.html', 'e6269e245c09da71a0d8fed5e28ce076'],
+    ['/pwa-demo/index.html', 'e6269e245c09da71a0d8fed5e28ce076'],
     [
-      'pwa-demo/static/css/app.1d063bc0cd301699760e884e1e4c3379.css',
+      '/pwa-demo/static/css/app.1d063bc0cd301699760e884e1e4c3379.css',
       '96abd660b227baae7d6d1da188f73912'
     ],
     [
-      'pwa-demo/static/js/app.18b4fa2e8e3b2606c6de.js',
+      '/pwa-demo/static/js/app.18b4fa2e8e3b2606c6de.js',
       '46de87f0ea1b84fbf63b8e8f975bc97f'
     ],
     [
-      'pwa-demo/static/js/manifest.2ae2e69a05c33dfc65f8.js',
+      '/pwa-demo/static/js/manifest.2ae2e69a05c33dfc65f8.js',
       '2f4fd3b092ed7f7e76dbb3976729742e'
     ],
     [
-      'pwa-demo/static/js/vendor.0409c5b4e7ee458c7ebb.js',
+      '/pwa-demo/static/js/vendor.0409c5b4e7ee458c7ebb.js',
       '6a48e254c949d236ac4d69518b4033e2'
     ]
   ],
